@@ -1,0 +1,23 @@
+{
+  "name": "gulpStudy",
+  "version": "1.0.0",
+  "description": "gulp构建工具学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingyinruoxi/gulpStudy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingyinruoxi/gulpStudy/issues"
+  },
+  "homepage": "https://github.com/xingyinruoxi/gulpStudy#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
